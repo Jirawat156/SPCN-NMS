@@ -140,3 +140,12 @@
 - สามารถบอกาอัตราการเข้า-ออกของข้อมูลได้ 
 
 ![image](https://user-images.githubusercontent.com/119155285/211134615-1cf2c681-fecc-48fb-88b6-671521490a34.png)
+
+# สมาชิก
+- https://github.com/teerasut01
+- https://github.com/Hgot7
+- https://github.com/Ruangrit-01
+- https://github.com/Jirawat156
+
+
+
