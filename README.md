@@ -122,7 +122,7 @@
    * วิธีอ่าน Graph
      * แกน X คือค่าเวลาของ Graph
      * แกน Y คือค่า Processor ขณะที่ทำงานอยู่
-* สามารถบอกค่าเฉลี่ย ของ Processer ได้ 
+* สามารถบอกค่าเฉลี่ย ของ Processor ได้ 
 
 ![image](https://user-images.githubusercontent.com/119155285/211134261-0bbb65af-f49b-488e-a060-51ca33b11ce9.png)
 
